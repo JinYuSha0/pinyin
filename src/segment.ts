@@ -1,4 +1,4 @@
-import nodejieba from "nodejieba";
+import nodejieba from "@node-rs/jieba";
 import { load, cut /*, tag */ } from "@node-rs/jieba";
 // @ts-ignore
 import { Segment, useDefault } from "segmentit";
