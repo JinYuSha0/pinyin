@@ -35,7 +35,6 @@
   },
   "optionalDependencies": {
     "@node-rs/jieba": "^1.6.0",
-    "nodejieba": "2.5.2",
     "segmentit": "^2.0.3"
   },
   "devDependencies": {
